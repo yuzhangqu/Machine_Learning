@@ -1,0 +1,17 @@
+Hello yuzhangqu,
+
+Congratulations! You have officially qualified for Online Round 1 of Code Jam 2015 based on your performance in the Qualification Round. We¡¯re impressed.
+
+Unlike in the Qualification Round, collaboration is strictly prohibited in this and all future rounds of Code Jam 2015. Section 7 of the Google Code Jam Terms & Conditions prohibits sharing or using from others any information about a problem before the end of the round. Such actions that violate these Terms & Conditions will result in your disqualification.
+
+How does Round 1 work? There are three first rounds: Round 1A, Round 1B and Round 1C. Each lasts for two hours and thirty minutes. You can compete in all three sub-rounds (1A, 1B, and 1C), but only until you qualify for Round 2. If you place in the top 1000 in any of the three sub-rounds, you will qualify for Round 2 and will not be allowed to compete in any later sub-rounds.
+
+Round 1 Schedule
+Round 1A: Saturday, April 18, 2015 at 01:00 UTC
+Round 1B: Saturday, May 2, 2015 at 16:00 UTC
+Round 1C: Sunday, May 10, 2015 at 09:00 UTC
+
+Finally, please note that if you are utilizing a web IDE, be sure to not publish your code or you could be subject to disqualification.
+
+See you in Round 1 and best of luck!
+The Code Jam Team
